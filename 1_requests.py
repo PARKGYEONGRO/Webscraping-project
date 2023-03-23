@@ -1,5 +1,8 @@
 # * requests 모듈 설치 필요 *
 # pip 안 되면 환경변수 확인 또는 버젼 업글해보자
+# python 버젼이 여러개 깔려 있으면 버젼 확인 후 모듈 설치 필요
+
+
 import requests
 
 
